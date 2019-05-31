@@ -1,2 +1,2 @@
 # problemsolving-may-2019
-6 Day FDP
+6 Day Faculty Development Program
